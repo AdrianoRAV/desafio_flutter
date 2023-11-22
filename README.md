@@ -1,7 +1,7 @@
 
-# Soma de Número Divisiveis por 3 ou 5
+# desafio
 
-função que receba um número inteiro positivo e retorne o somatório de todos os valores inteiros divisíveis por 3 ou 5 que sejam inferiores ao número passado.
+APP que receba um número inteiro positivo e retorne o somatório de todos os valores inteiros divisíveis por 3 ou 5 que sejam inferiores ao número passado.
 
 ## 🚀 Começando
 
@@ -49,25 +49,3 @@ flutter run
 
 * **Adriano Rodrigues** - *Trabalho Inicial* - [Adriano](https://github.com/AdrianoRAV)
 
-
-
-
-
-
-
-# desafio
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
